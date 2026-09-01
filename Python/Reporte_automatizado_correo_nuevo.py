@@ -14,9 +14,9 @@ from reportlab.platypus import SimpleDocTemplate, Table, TableStyle, Paragraph, 
 from reportlab.lib.styles import getSampleStyleSheet
 
 # ─────────────────────────────────────────
-REMITENTE    = "darylasv.xd@gmail.com"
-CONTRASENA   = "ftit jwxe bmmb vgdq"
-DESTINATARIO = "darylpythonprueba@gmail.com"
+REMITENTE    = "EjemploRemitente@gmail.com"
+CONTRASENA   = "ftit jwxe bmmb vgcq"
+DESTINATARIO = "EjemploDestinatario@gmail.com"
 # ─────────────────────────────────────────
 
 # Conexión a MySQL
