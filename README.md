@@ -55,9 +55,9 @@ El análisis parte de 8 preguntas de negocio, todas resueltas con SQL puro (join
 
 El dashboard traduce las consultas SQL en visualizaciones interactivas: KPIs generales, top de productos y clientes, mapa de distribución geográfica de clientes y evolución mensual de ingresos.
 
-![Dashboard Northwind](./Power BI/Dashboard.png)
+<img src="https://raw.githubusercontent.com/dasal001/Portafolio_analisis_de_datos_Northwind/main/Power%20BI/Dashboard.png" width="800" alt="Dashboard Northwind">
 
-![Detalle de tablas](./Power BI/Tabla.png)
+<img src="https://github.com/dasal001/Portafolio_analisis_de_datos_Northwind/blob/eeb32bfb8afe000a80e47098ccfa2217e4ec247a/Power%20BI/Tabla.png" width="800" alt="Dashboard Northwind">
 
 **Insights destacados:**
 - ☕ *Coffee* y *Beer* concentran la mayor parte de las ventas por volumen, muy por delante del resto del top 10.
