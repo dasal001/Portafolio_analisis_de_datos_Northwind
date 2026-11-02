@@ -1,6 +1,6 @@
 # 📊 Análisis de Ventas — Northwind Traders
 
-Proyecto end-to-end de análisis de datos que va desde una base de datos MySQL hasta un dashboard interactivo en Power BI, con un módulo adicional de automatización en Python que genera y envía reportes por correo.
+Proyecto de análisis de datos que va desde una base de datos MySQL hasta un dashboard interactivo en Power BI, con un módulo adicional de automatización en Python que genera y envía reportes por correo.
 
 El objetivo fue simular el trabajo de un analista de datos dentro de una empresa de distribución de alimentos: entender el negocio a través de SQL, construir un dashboard ejecutivo y automatizar la entrega de reportes.
 
